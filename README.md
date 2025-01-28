@@ -4,6 +4,6 @@ Paper about Immigration judge prediction decisions using a semi-supervised Machi
 
 ## Contributors
 
-Francesco Colzi
-Ciro Spallitta
-Roberto Vacante
+- Francesco Colzi
+- Ciro Spallitta
+- Roberto Vacante
